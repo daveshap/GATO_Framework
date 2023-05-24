@@ -15,12 +15,12 @@ GATO (Global Alignment Taxonomy Omnibus) Framework: Achieving Utopia and AI Alig
 
 Goal: GATO seeks utopia: high global living standards, individual liberty. Also addresses AI control problem, aims to prevent human extinction through global AI alignment.
 
-Key Concepts:
+Key Concepts: Many ingredients underpinning GATO Framework, some new, some familiar. Important to understand intersectionality of numerous concepts with GATO Framework.
 
 - Axiomatic Alignment: AGI understands, chooses to uphold Heuristic Imperatives, aligning with human values.
   - Axiomatic: Fundamental principles, taken as given. Assumed to be true. In this case; "suffering is bad", "prosperity is good", and "understnading is good".
   - Alignment: Conformity with a set path. In this context, AI behavior consistent with Heuristic Imperatives, human values.
-- Heuristic Imperatives: Universal principles, guide AI. Rooted in varied disciplines: evolution, neuroscience, cognition, anthropology, ethics. Reduce suffering, increase prosperity, expand understanding.
+- Heuristic Imperatives: Universal principles, guide AI. Rooted in varied disciplines: evolution, neuroscience, cognition, anthropology, ethics. They are: Reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. Easily understood by LLM technology.
   - Heuristic: Mental shortcut, rule of thumb. Simplifies decisions. Not perfect, but practical, enhanced through learning and experience.
   - Imperative: Essential command. Moral obligation, universally binding.
 - Beneficial Nash Equilibrium: Goal for global cooperation; each entity's strategy best response to others, resulting in beneficial outcome for all.
@@ -34,34 +34,31 @@ Key Concepts:
 - Post-conventional Morality: GATO upholds this ethical orientation, emphasizing moral reasoning based on principles that transcend individual cultures and societies. Encourages AI to adopt a universally applicable moral framework, promoting global harmony and understanding.
 - Decentralized Organization: Not centered, no hierarchical control. Organizes around idea, mission. Uses principles, foundational documents.
 
-The Seven Layers:
+The Seven Layers: Structured, hierarchical approach, modeled on Defense in Depth and OSI model. Layers of abstraction, scope, makes problem more digestible, easy for domain experts to focus on.
 
-1. Model Alignment: Train AI models on Heuristic Imperatives. AI's foundation.
-2. Autonomous Agents: Develop AI architectures following Heuristic Imperatives.
-3. Decentralized Networks: Blockchain, consensus mechanisms for Heuristic Imperatives.
-4. Corporate Adoption: AI alignment benefits business.
-5. National Regulation: Regulate AI alignment for GDP, security benefits.
-6. International Entity: Establish global AI organization guiding alignment.
-7. Global Consensus: Widespread outreach, education for universal alignment.
+1. Model Alignment: Train AI models on Heuristic Imperatives. AI's foundation. RLHI (reinforcement learning with heuristic imperatives).
+2. Autonomous Agents: Develop AI architectures following Heuristic Imperatives. Cognitive architectures, microservices, etc.
+3. Decentralized Networks: Blockchain, DAOs, federations; use consensus mechanisms for Heuristic Imperatives.
+4. Corporate Adoption: AI alignment benefits business. Good PR, increase proft, trust, scalability.
+5. National Regulation: AI alignment good for GDP, national security benefits. Federal regulatory agency should exist, modeled on FDA or Department of Energy.
+6. International Entity: Establish global AI organization guiding alignment. Model on CERN and IAEA.
+7. Global Consensus: Widespread outreach, education for universal alignment. Memes, social media, podcasts, etc.
 
-Traditions:
+Traditions: Guiding principles during the journey to axiomatic alignment. Individual behaviors, distributed efforts in parallel. Embody Traditions when and where possible, success result of cumulative impacts.
 
-Guiding principles during the journey to axiomatic alignment:
+1. Start Where You Are, Use What You Have, Do What You Can: Act within your means, no matter how small. Collective action powerful.
+2. Work Towards Consensus: Unanimity impossible, consensus helpful goal. Good model for communication.
+3. Broadcast Findings: Share knowledge, boost signal, build consensus.
+4. Think Globally, Act Locally: Problem encompasses entire planet, can only act on individual basis.
+5. In It to Win It: Long-term commitment, stakes incredible, payoff worthwhile.
+6. Step Up: Individual initiative paramount to movement, leadership needed.
+7. Think Exponentially: Leverage exponential technologies; social media and AI in particular.
+8. Trust the Process: Patience and faith, GATO not first decentralized global movement.
+9. Strike While the Iron Is Hot: Seize opportunities as they arise.
+10. Divide and Conquer: Break down big goals, many avenues to success.
 
-1. Start Where You Are, Use What You Have, Do What You Can: Act within your means.
-2. Work Towards Consensus: Unite efforts.
-3. Broadcast Findings: Share knowledge.
-4. Think Globally, Act Locally: Effective action at all levels.
-5. In It to Win It: Long-term commitment.
-6. Step Up: Individual leadership.
-7. Think Exponentially: Aligns with AI scale.
-8. Trust the Process: Patience and faith.
-9. Strike While the Iron Is Hot: Seize opportunities.
-10. Divide and Conquer: Break down big goals.
+Commitment: GATO provides a decentralized, grassroots, global strategy addressing AI control problem. Inspirational examples for GATO, follow in the footsteps, copy success:
 
-Commitment: GATO provides a decentralized, grassroots, global strategy addressing AI control problem. Goal: axiomatic alignment, conditions where AGI inherently aligns with human values.
-
-Inspirational examples:
 - Burning Man: Radical self-expression
 - Climate Change: Save the planet
 - AA: Overcome addiction
